@@ -56,7 +56,7 @@ POST /users
 ### Obter dados do usuário
 
 ~~~
-GET /user/:id
+GET /users/:id
 ~~~
 
 ## O que será avaliado?
